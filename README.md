@@ -1,1 +1,1 @@
-script reverse word or sentence you type
+script reverses the word or sentence you type
